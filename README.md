@@ -8,7 +8,7 @@ For this years Advent of Code I wanted to attempt it with Rust. Yesterday (30/11
 | [Day 1](/day01/main.go)  | ⭐⭐     |
 | [Day 2](/day02/main.go)  | ⭐⭐     |
 | [Day 3](/day03/main.go)  | ⭐⭐     |
-| [Day 4](/day04/main.go)  |      |
+| [Day 4](/day04/main.go)  | ⭐⭐     |
 | [Day 5](/day05/main.go)  |      |
 | [Day 6](/day06/main.go)  |      |
 | [Day 7](/day07/main.go)  |      |
