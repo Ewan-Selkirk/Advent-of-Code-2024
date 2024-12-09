@@ -13,7 +13,7 @@ For this years Advent of Code I wanted to attempt it with Rust. Yesterday (30/11
 | [Day 6](/day06/main.go)  | ⭐     |
 | [Day 7](/day07/main.go)  |      |
 | [Day 8](/day08/main.go)  |        |
-| [Day 9](/day09/main.go)  |        |
+| [Day 9](/day09/main.go)  | ⭐     |
 | [Day 10](/day10/main.go) |        |
 | [Day 11](/day11/main.go) |        |
 | [Day 12](/day12/main.go) |        |
