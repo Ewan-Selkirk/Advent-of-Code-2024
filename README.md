@@ -15,7 +15,7 @@ For this years Advent of Code I wanted to attempt it with Rust. Yesterday (30/11
 | [Day 8](/day08/main.go)  |        |
 | [Day 9](/day09/main.go)  | ⭐     |
 | [Day 10](/day10/main.go) |        |
-| [Day 11](/day11/main.go) |        |
+| [Day 11](/day11/main.go) | ⭐⭐     |
 | [Day 12](/day12/main.go) |        |
 | [Day 13](/day13/main.go) |        |
 | [Day 14](/day14/main.go) |        |
